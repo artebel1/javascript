@@ -1,2 +1,1 @@
-# javascript
-:alert(2)
+# javascript:alert(2)
